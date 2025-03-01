@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Elshaday-Portfolio/static/css/main.19547b5b.css",
-    "main.js": "/Elshaday-Portfolio/static/js/main.d8d957c6.js",
+    "main.js": "/Elshaday-Portfolio/static/js/main.d464a31b.js",
     "reactPlayerYouTube.js": "/Elshaday-Portfolio/static/js/reactPlayerYouTube.df79265a.chunk.js",
     "reactPlayerSoundCloud.js": "/Elshaday-Portfolio/static/js/reactPlayerSoundCloud.379710fe.chunk.js",
     "reactPlayerVimeo.js": "/Elshaday-Portfolio/static/js/reactPlayerVimeo.4c8cd07f.chunk.js",
@@ -19,7 +19,7 @@
     "static/js/787.a71561b8.chunk.js": "/Elshaday-Portfolio/static/js/787.a71561b8.chunk.js",
     "static/media/ratatoulliVid.mp4": "/Elshaday-Portfolio/static/media/ratatoulliVid.8d8b731ea77fc3eed0fa.mp4",
     "static/media/Elshaday.pdf": "/Elshaday-Portfolio/static/media/Elshaday.63e131b9324cb9eb8c87.pdf",
-    "static/media/kif.gif": "/Elshaday-Portfolio/static/media/kif.09dc276ed8b138c6d08f.gif",
+    "static/media/kif.gif": "/Elshaday-Portfolio/static/media/kif.4ac23acefce8cd644ea2.gif",
     "static/media/about--.png": "/Elshaday-Portfolio/static/media/about--.63a5a33995ea274db5f1.png",
     "static/media/avatar.png": "/Elshaday-Portfolio/static/media/avatar.0f956fdc96130985514a.png",
     "static/media/home-main.png": "/Elshaday-Portfolio/static/media/home-main.936186cd397c2ff70479.png",
@@ -29,7 +29,7 @@
     "static/media/home-bg.jpg": "/Elshaday-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "index.html": "/Elshaday-Portfolio/index.html",
     "main.19547b5b.css.map": "/Elshaday-Portfolio/static/css/main.19547b5b.css.map",
-    "main.d8d957c6.js.map": "/Elshaday-Portfolio/static/js/main.d8d957c6.js.map",
+    "main.d464a31b.js.map": "/Elshaday-Portfolio/static/js/main.d464a31b.js.map",
     "reactPlayerYouTube.df79265a.chunk.js.map": "/Elshaday-Portfolio/static/js/reactPlayerYouTube.df79265a.chunk.js.map",
     "reactPlayerSoundCloud.379710fe.chunk.js.map": "/Elshaday-Portfolio/static/js/reactPlayerSoundCloud.379710fe.chunk.js.map",
     "reactPlayerVimeo.4c8cd07f.chunk.js.map": "/Elshaday-Portfolio/static/js/reactPlayerVimeo.4c8cd07f.chunk.js.map",
@@ -48,6 +48,6 @@
   },
   "entrypoints": [
     "static/css/main.19547b5b.css",
-    "static/js/main.d8d957c6.js"
+    "static/js/main.d464a31b.js"
   ]
 }
