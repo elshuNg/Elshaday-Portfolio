@@ -32,7 +32,7 @@ function Footer() {
             
             <li className="social-icons">
               <a
-                href="git rm .gitignore"
+                href="https://www.linkedin.com/in/elshaday-negus-ba6901210/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
