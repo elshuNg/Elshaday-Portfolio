@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Elshaday-Portfolio/static/css/main.19547b5b.css",
-    "main.js": "/Elshaday-Portfolio/static/js/main.13265e3a.js",
+    "main.js": "/Elshaday-Portfolio/static/js/main.d8d957c6.js",
     "reactPlayerYouTube.js": "/Elshaday-Portfolio/static/js/reactPlayerYouTube.df79265a.chunk.js",
     "reactPlayerSoundCloud.js": "/Elshaday-Portfolio/static/js/reactPlayerSoundCloud.379710fe.chunk.js",
     "reactPlayerVimeo.js": "/Elshaday-Portfolio/static/js/reactPlayerVimeo.4c8cd07f.chunk.js",
@@ -29,7 +29,7 @@
     "static/media/home-bg.jpg": "/Elshaday-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "index.html": "/Elshaday-Portfolio/index.html",
     "main.19547b5b.css.map": "/Elshaday-Portfolio/static/css/main.19547b5b.css.map",
-    "main.13265e3a.js.map": "/Elshaday-Portfolio/static/js/main.13265e3a.js.map",
+    "main.d8d957c6.js.map": "/Elshaday-Portfolio/static/js/main.d8d957c6.js.map",
     "reactPlayerYouTube.df79265a.chunk.js.map": "/Elshaday-Portfolio/static/js/reactPlayerYouTube.df79265a.chunk.js.map",
     "reactPlayerSoundCloud.379710fe.chunk.js.map": "/Elshaday-Portfolio/static/js/reactPlayerSoundCloud.379710fe.chunk.js.map",
     "reactPlayerVimeo.4c8cd07f.chunk.js.map": "/Elshaday-Portfolio/static/js/reactPlayerVimeo.4c8cd07f.chunk.js.map",
@@ -48,6 +48,6 @@
   },
   "entrypoints": [
     "static/css/main.19547b5b.css",
-    "static/js/main.13265e3a.js"
+    "static/js/main.d8d957c6.js"
   ]
 }
