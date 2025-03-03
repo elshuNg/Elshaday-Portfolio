@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
 import Code from "../../Assets/Projects/code.png";
+import CodeVideo from "../../Assets/Projects/codeTibeb.mp4";
 
 import Ratatoulli from "../../Assets/Projects/Ratatoulli.png";
 import videoLink from "../../Assets/Projects/ratatoulliVid.mp4"
@@ -76,10 +77,10 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Code}
-              isBlog={false}
+              isVideo={true}
               title="Code Tibeb "
               description="Tech Team Portal (My first website)"
-              demoLink="http://codetibeb.s3-website-us-east-1.amazonaws.com/index.html"
+              videoLink={CodeVideo}
               Overview="This  website serves as a dynamic tech portal, it marks my first foray into web development,
                reflecting my foundational skills in creating an engaging online presence. While I recognize that there is room for improvement, this project has been a significant stepping stone in my journey as a developer. Through this experience, I have gained valuable
                insights and honed my skills, leading to substantial improvements in my web development capabilities."
